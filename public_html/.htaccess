@@ -1,0 +1,3 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop workingErrorDocument 404 /pages-404.html
+RewriteBase /
+ErrorDocument 404 /pages-404.html
